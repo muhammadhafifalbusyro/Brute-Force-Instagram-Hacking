@@ -1,12 +1,5 @@
 # Instagram Bruter
 
-[![Version](https://img.shields.io/badge/version-v2.1.1-blue.svg)]()
-[![Python](https://img.shields.io/badge/python-v3-blue.svg)]()
-[![Discord](https://img.shields.io/discord/532621311017484307.svg)](https://discord.gg/jvhJMeb)
-[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/Msheikh03)
-<br>
-**Bitcoin wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy
-<br>
 
 This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
 
@@ -17,9 +10,6 @@ This project is no longer maintained; use version 3.0.0 at https://www.youtube.c
 ### Requirements
 
 -   Python _v3.x.x_
--   ~~Kali Linux 2.0~~
--   ~~TOR~~
-
 ### Install Dependencies
 
 ```
